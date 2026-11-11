@@ -66,3 +66,5 @@ Project Outcome-
 
 Successfully completed an end-to-end HR Analytics project by integrating Python, SQL, and Power BI.
 The project demonstrates practical skills in data cleaning, data manipulation, SQL querying, exploratory data analysis, and interactive dashboard development.
+
+![image alt](https://github.com/ashish2019-tripathy/HR-Attrition/blob/03ea5c58e9a51e0b67770679dfcdab4e0d73d19b/Screenshot%202026-11-11%20100145.png)
